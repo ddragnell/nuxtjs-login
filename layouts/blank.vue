@@ -7,7 +7,7 @@
               <v-text-field v-model="password" label="Contraseña"></v-text-field>
               <a href="#" class="text-body-2 font-weight-regular">¿Olvidaste tu contraseña?</a>
 
-              <v-btn type="submit" color="primary" block class="mt-2">Ingresar</v-btn>
+              <v-btn type="submit" color="primary" block class="mt-2" to="/tareas">Ingresar</v-btn>
 
           </v-form>
           <div class="mt-2">
